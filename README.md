@@ -21,7 +21,7 @@ You can:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/srinivas0721/CodingAssistant.git
+git clone https://github.com/krishnaaa03/Coding_Assistant.git
 ```
 
 ### 2. Install Chrome Extension
