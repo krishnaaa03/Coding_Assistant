@@ -70,7 +70,3 @@ git clone https://github.com/krishnaaa03/Coding_Assistant.git
 
 ---
 
-## 👨‍💻 Author
-
-**Srinivas Prabhu**  
-🔗 GitHub: [@srinivas0721](https://github.com/srinivas0721)
